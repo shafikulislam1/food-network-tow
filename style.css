@@ -1,0 +1,51 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.tamato{
+    color: tomato;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    padding-left:5%;
+    width: 50%
+    
+}
+.half-width img{
+   width: 80% 
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient( orange, red);
+    padding: 10px 30px;
+    border-radius: 50px;
+    color: white;
+    font-weight: 700;
+}
+.contact-me{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+
+.column{
+    float:left ;
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 2%;
+    margin: 2%;
+    width: 25%;
+    border-radius:10px;
+    box-shadow: 10px 10px 20px grey;
+    
+
+}
+.column img{
+    width: 100%;
+}
+footer{
+    text-align: center;
+}
