@@ -1,7 +1,11 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-
+.my-section{
+    font-size: 30px;
+    color: red;
+    background-color: gray;
+}
 
 .tamato{
     color: tomato;
@@ -43,9 +47,12 @@ body{
     
 
 }
+.center{
+    text-align: center;
+}
 .column img{
     width: 100%;
 }
 footer{
-    text-align: center;
+    text-align: center;   
 }
